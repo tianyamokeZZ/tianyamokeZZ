@@ -10,7 +10,7 @@ I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Tech
 - optical and SAR
 
 📫 **How to reach me**:
-- ❗Wechat: TheBestOfMehah
+- Wechat: TheBestOfMehah
 - This is my email: zhaozhe22@mails.ucas.ac.cn
 
 <!--
