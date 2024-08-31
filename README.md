@@ -1,5 +1,5 @@
 ### Hi there 👋
-# $\color{red}{我的微信(WeChat): TheBestOfMehah，欢迎交流与合作}$
+# $\color{red}{我的微信(WeChat): TheBestOfMehah}$
 ### Hi there, I'm [Zhe Zhao (赵哲 in Chinese)]([https://yimiandai.work/](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)), supervised by Lianru Gao 导师 高连如
 
 I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
