@@ -4,6 +4,25 @@
 
 I am a PhD candidate at the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
 
+🏅 Honors and Awards:
+- 2015-2016: National High School Mathematics Competition, Second Prize
+- 2015-2016: Zhejiang Provincial High School Mathematics Competition, First Prize
+- 2016-2017: Pre-admitted to the Junior Innovation Class, University of Science and Technology of China
+- 2016-2017: Chen Shengshen Cup National High School Mathematics Olympiad, First Prize
+- 2018-2019: National Scholarship for Undergraduates (Top 1%)
+- 2019-2020: National Scholarship for Undergraduates (Top 1%)
+- 2019-2020: Shandong Provincial University Students’ Surveying Skills Competition, Special Prize
+- 2020-2021: China Petroleum Scholarship (Top 0.5%)
+- 2020-2021: National Undergraduate Mathematics Competition (Non-Math Major), First Prize
+- 2021-2022: National Undergraduate Mathematical Modeling Competition, National Second Prize
+- 2021-2022: "PIE Remote Sensing and Geographic Information Integration Software Secondary Development Competition," First Prize
+- 2021-2022: 17th "Challenge Cup" Shandong University Students' Extracurricular Academic Science and Technology Works Competition, First Prize
+- 2021-2022: 17th "Challenge Cup" Red Project Activity, First Prize
+- 2021-2022: Outstanding Graduate of Shandong Province
+- 2022-2023: China Graduate Mathematical Modeling Competition, Third Prize
+- 2022-2023: “Jilin-1” Remote Sensing Developer Offline Training Camp (Changchun), Outstanding Trainee (Top 2%)
+- Others: More than ten additional national, provincial, or ministerial-level honors and awards.
+
 🔭 **Reseach-wise, I mainly focus on**:
 - data fusion
 - multimodal segmentation
