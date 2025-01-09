@@ -25,7 +25,7 @@ I received the B.S. degree in Surveying and Mapping Engineering from China Unive
 - 2021-2022: 17th "Challenge Cup" Shandong University Students' Extracurricular Academic Science and Technology Works Competition, First Prize 第十七届“挑战杯”建设银行山东省大学生课外学术科技作品竞赛 一等奖
 - 2021-2022: 17th "Challenge Cup" Red Project Activity, First Prize 第十七届“挑战杯”红色专项活动 一等奖
 - 2021-2022: Our team's work was reported by the Central Committee of the Communist Youth League and selected as an excellent environmental protection case by the All-China Youth Federation. 我们团队的作品被共青团中央报道，并被中华全国青年联合会评选为优秀环保案例。
-- 2021-2022: Represented China University of Petroleum in the United Nations Development Programme's "Future of Food" Global Competition 代表中国石油大学参加联合国开发计划署“未来食物家”全球竞赛
+- 2021-2022: Represented China University of Petroleum in the United Nations Development Programme's "Future of Food" Global Competition 代表中国石油大学参加联合国开发计划署“未来食物家”
 - 2021-2022: Outstanding Graduate of Shandong Province 山东省优秀毕业生
 - 2022-2023: “Jilin-1” Remote Sensing Developer Offline Training Camp (Changchun), Outstanding Trainee (Top 2%) 吉林一号’遥感开发者培训班线下集训营（长春站） 优秀学员
 - Others: More than ten additional national, provincial, or ministerial-level honors and awards. 另有十余项国家、省部级（国家一级学会或省级单位盖章）荣誉奖励
