@@ -14,6 +14,7 @@ I received the B.S. degree in Surveying and Mapping Engineering from China Unive
 - 2015-2016: Zhejiang Provincial High School Mathematics Competition, First Prize 浙江省高中数学竞赛 一等奖
 - 2016-2017: Pre-admitted to the Junior Innovation Class, University of Science and Technology of China 中国科学技术大学 少年创新班 预录取
 - 2016-2017: Chen Shengshen Cup National High School Mathematics Olympiad, First Prize 陈省身杯全国高中数学奥林匹克竞赛 一等奖
+- 2017-2018: Zhejiang Provincial High School Mathematics Competition, First Prize 浙江省高中数学竞赛 一等奖 （185/200, 满分200，得分185，当年一等奖分数为102）
 - 2018-2019: National Scholarship for Undergraduates (Top 1%) 国家奖学金
 - 2019-2020: National Scholarship for Undergraduates (Top 1%) 国家奖学金
 - 2019-2020: Shandong Provincial University Students’ Surveying Skills Competition, Special Prize 山东省大学生测量技能大赛  特等奖
