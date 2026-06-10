@@ -3,7 +3,7 @@
 📈 量化研究 / Quant Research （后续会在个人主页会pinned脱密后的相关代码）
 - 金融时序建模：return prediction, trend / mean-reversion analysis, volatility modeling
 - 特征工程：rolling mean/std，收益率与波动率特征，成交量特征，微观结构特征，情绪数据特征，宏观变量特征
-- 因子稳定性处理：偏度/峰度，Hurst，Kalman平滑去噪，zscore平稳化，正交化去冗余
+- 因子稳定性处理：偏度/峰度，Hurst，Kalman平滑去噪，zscore平稳化
 - 机器学习模型：GBDT(LightGBM, XGBoost, Random Forest), TabM, GRU
 - 市场状态与无监督学习：HMM 市场状态划分，AE/VAE 特征降噪，聚类/深度无监督聚类，t-SNE 高维簇可视化
 - 特征筛选与信号过滤：Spearman相关性分析，正交化去冗余，遗传算法特征筛选，meta-labeling 交易信号过滤
