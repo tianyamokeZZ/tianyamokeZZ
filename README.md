@@ -2,7 +2,7 @@
 
 🔭 **Reseach-wise, I mainly focus on**:
 - Remote Sensing AI: data fusion（数据融合）multimodal segmentation（多模态图像分割）
-- Quantitative Research: financial time-series modeling（金融时序建模）, feature engineering（特征工程）, machine learning（机器学习）.
+- Quantitative Research: financial time-series modeling（金融时序建模）, feature engineering（特征工程）.
 
 🏅 Honors and Awards:
 - 2015-2016: 全国高中数学联赛 二等奖
