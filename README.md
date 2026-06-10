@@ -28,6 +28,9 @@ I received the B.S. degree in Surveying and Mapping Engineering from China Unive
 - 2021-2022: Represented China University of Petroleum in the United Nations Development Programme's "Future of Food" Global Competition 代表中国石油大学参加联合国开发计划署“未来食物家”
 - 2021-2022: Outstanding Graduate of Shandong Province 山东省优秀毕业生
 - 2022-2023: “Jilin-1” Remote Sensing Developer Offline Training Camp (Changchun), Outstanding Trainee (Top 2%) 吉林一号’遥感开发者培训班线下集训营（长春站） 优秀学员
+- 2024-2025：‘高分对地观测应用技术创新大赛’基于高分遥感影像耕地地块提取 优胜奖
+- 2025-2026：Kaggle 竞赛 “CSIRO – Image2Biomass Prediction”银牌
+- 2025-2026：第三届人工智能与遥感科学交叉论坛（AIRS-2026）优秀口头报告
 - Others: More than ten additional national, provincial, or ministerial-level honors and awards. 另有十余项国家、省部级（国家一级学会或省级单位盖章）荣誉奖励
 
 📫 **How to reach me**:
