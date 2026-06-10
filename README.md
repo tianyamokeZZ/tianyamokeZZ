@@ -1,8 +1,20 @@
 ### Hi there, I'm [Zhe Zhao (赵哲 in Chinese)]([https://yimiandai.work/](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)), supervised by Lianru Gao 导师 高连如
 
-🔭 **Research-wise, I mainly focus on**:
-- Remote Sensing AI: data fusion（数据融合）multimodal segmentation（多模态图像分割）
-- Quantitative Research: financial time-series modeling（金融时序建模）, feature engineering（特征工程）.
+🛠️ 技术栈 / Technical Stack
+📈 量化研究 / Quant Research
+- 金融时序建模：return prediction, trend / mean-reversion analysis, volatility modeling
+- 特征工程：rolling mean/std，收益率与波动率特征，成交量特征，微观结构特征，情绪数据特征，宏观变量特征
+- 因子稳定性处理：偏度/峰度，Hurst 指数，Kalman 平滑去噪，zscore 平稳化，正交化去冗余
+- 机器学习模型：LightGBM, XGBoost, Random Forest, GBDT, TabM, GRU
+- 市场状态与无监督学习：HMM 市场状态划分，AE/VAE 特征降噪，聚类/深度无监督聚类，t-SNE 高维簇可视化
+- 特征筛选与信号过滤：遗传算法特征筛选，meta-labeling 交易信号过滤
+- 回测与评价框架：IC, IR, markout, alpha power, 分层回测, walk-forward validation, Sharpe ratio
+
+🤖 AI 与深度学习 / AI & Deep Learning
+- 编程与数据处理：Python, PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib
+- 深度学习模型：CNN, Transformer, Attention Mechanism, Semantic Segmentation
+- 多模态遥感 AI：光学/SAR 图像处理，多模态数据融合，遥感图像分割，建筑物提取，轻量化网络设计
+- 模型训练与实验：数据预处理，模型训练，消融实验，特征可视化，结果分析
 
 🏅 Honors and Awards:
 - 2015-2016: 全国高中数学联赛 二等奖
