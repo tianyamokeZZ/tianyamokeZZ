@@ -2,7 +2,7 @@
 # $\color{red}{我的微信(WeChat): TheBestOfMehah}$
 ### Hi there, I'm [Zhe Zhao (赵哲 in Chinese)]([https://yimiandai.work/](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)), supervised by Lianru Gao 导师 高连如
 
-I received the B.S. degree in Surveying and Mapping Engineering from China University of Petroleum (East China), Qingdao, in 2022. I am currently pursuing a Ph.D. degree in Cartography and Geographical Information System at the University of Chinese Academy of Sciences, within the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing.
+I am currently pursuing a Ph.D. degree in Cartography and Geographical Information System at the University of Chinese Academy of Sciences, within the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing.
 
 🔭 **Reseach-wise, I mainly focus on**:
 - data fusion
