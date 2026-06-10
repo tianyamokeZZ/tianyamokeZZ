@@ -21,7 +21,10 @@
 - 2021-2022: 第十七届“挑战杯”红色专项活动 一等奖
 - 2021-2022: 我们团队的作品被共青团中央报道，并被中华全国青年联合会评选为优秀环保案例。
 - 2021-2022: 参加联合国开发计划署“未来食物家”
-<img src="Food.jpg" alt="UNDP Future Food House" width="360"/>
+<p align="left">
+  <img src="Food.jpg" alt="UNDP Future Food House" width="300"/>
+  <img src="chenbei.jpg" alt="Chern Cup Mathematics Award" width="300"/>
+</p>
 
 - 2021-2022: 山东省优秀毕业生
 - 2022-2023: 吉林一号’遥感开发者培训班线下集训营（长春站） 优秀学员
