@@ -1,6 +1,6 @@
 ### Hi there, I'm [Zhe Zhao (赵哲 in Chinese)]([https://yimiandai.work/](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)), supervised by Lianru Gao 导师 高连如
 
-🔭 **Reseach-wise, I mainly focus on**:
+🔭 **Research-wise, I mainly focus on**:
 - Remote Sensing AI: data fusion（数据融合）multimodal segmentation（多模态图像分割）
 - Quantitative Research: financial time-series modeling（金融时序建模）, feature engineering（特征工程）.
 
