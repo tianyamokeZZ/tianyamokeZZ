@@ -1,4 +1,3 @@
-### Hi there 👋
 # $\color{red}{我的微信(WeChat): TheBestOfMehah}$
 ### Hi there, I'm [Zhe Zhao (赵哲 in Chinese)]([https://yimiandai.work/](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)), supervised by Lianru Gao 导师 高连如
 
