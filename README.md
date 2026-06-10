@@ -1,6 +1,5 @@
 ### Hi there, I'm [Zhe Zhao (赵哲 in Chinese)]([https://yimiandai.work/](https://scholar.google.com/citations?user=aSPDpmgAAAAJ&hl=zh-CN)), supervised by Lianru Gao 导师 高连如
 
-🛠️ 技术栈 / Technical Stack
 📈 量化研究 / Quant Research
 - 金融时序建模：return prediction, trend / mean-reversion analysis, volatility modeling
 - 特征工程：rolling mean/std，收益率与波动率特征，成交量特征，微观结构特征，情绪数据特征，宏观变量特征
